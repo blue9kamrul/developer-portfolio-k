@@ -15,6 +15,9 @@ h3{
 .salmon-color{
     color: salmon;
 }
+.purple-color{
+    color: violet;
+}
 section{
     display: flex;
     margin-bottom: 100px;
@@ -37,6 +40,13 @@ section{
     background-image: linear-gradient(salmon,tomato);
     
 }
+.link-button2{
+    text-decoration: none;
+    background-color: violet;
+    padding: 6px 20px;
+    border-radius: 4px; 
+    color: seashell;
+    background-image: linear-gradient(violet, purple);
 .pad{
     padding-top: 3px;
     padding-left: 30px;
