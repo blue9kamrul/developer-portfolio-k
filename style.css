@@ -10,6 +10,7 @@ h2{
 }
 h3{
     font-size: 40px;
+    padding-right: 15%;
 }
 .salmon-color{
     color: salmon;
@@ -23,8 +24,9 @@ section{
     padding-left: 4%;
 }
 .half-width img{
-    width: 75%;
+    width: 65%;
     padding-left: 15%;
+    padding-right: 15%;
 }
 .link-button{
     text-decoration: none;
@@ -44,4 +46,10 @@ section{
 }
 .blue-color{
     color: rgb(55, 55, 92);
+}
+#left{
+    margin-left: 27px;
+}
+#left-l{
+    margin-left: 27px;
 }
