@@ -15,6 +15,9 @@ h3{
 h4{
     font-size: 20px;
 }
+#top-border{
+    border-left: 10px tomato;
+}
 .salmon-color{
     color: salmon;
 }
@@ -28,6 +31,7 @@ h4{
 .half-width{
     width: 50%;
     padding-left: 4%;
+    border: 10px burlywood;
 }
 .half-width img{
     width: 65%;
@@ -70,6 +74,15 @@ h4{
     text-align: center;
 
 }
-.bg-color{
-    border-radius: 5px;
+.center{
+    margin-left: 50%;
+    padding-left: 50%;
+}
+#top-border{
+    border-left: 7px solid; 
+    border-image: linear-gradient(tomato, salmon);
+    border-image-slice: 2;
+}
+footer p {
+    text-align: center;
 }
