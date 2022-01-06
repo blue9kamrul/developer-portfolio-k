@@ -1,0 +1,35 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 65px;
+    border-left: tomato;
+}
+.salmon-color{
+    color: salmon;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 4%;
+}
+.half-width img{
+    width: 65%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: salmon;
+    padding: 6px 20px;
+    border-radius: 4px; 
+    color: seashell;
+    background-image: linear-gradient(salmon,tomato);
+    
+}
+.pad{
+    padding-top: 15px;
+}
+.border{
+    border: tomato;
+}
