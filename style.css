@@ -54,9 +54,6 @@ h4{
     border-radius: 4px; 
     color: seashell;
     background-image: linear-gradient(violet, purple);
-.pad{
-    padding-top: 3px;
-    padding-left: 30px;
 }
 .border{
     border: tomato;
@@ -85,4 +82,9 @@ h4{
 }
 footer p {
     text-align: center;
+}
+ 
+.pad{
+    padding-top: 3px;
+    padding-left: 30px;
 }
