@@ -12,13 +12,16 @@ h3{
     font-size: 40px;
     padding-right: 15%;
 }
+h4{
+    font-size: 20px;
+}
 .salmon-color{
     color: salmon;
 }
 .purple-color{
     color: violet;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -62,4 +65,11 @@ section{
 }
 #left-l{
     margin-left: 27px;
+}
+#align{
+    text-align: center;
+
+}
+.bg-color{
+    border-radius: 5px;
 }
